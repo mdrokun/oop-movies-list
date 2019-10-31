@@ -1,0 +1,22 @@
+{
+  "name": "movies-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdrokun/oop-movies-list.git"
+  },
+  "author": "Rokun",
+  "license": "ISC",
+  "homepage": "https://github.com/mdrokun/oop-movies-list",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
